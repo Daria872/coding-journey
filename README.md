@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Daria872/coding-journey/tree/master/0039-combination-sum) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Daria872/coding-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Backtracking
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Daria872/coding-journey/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+## Sorting
+|  |
+| ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
