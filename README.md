@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Daria872/coding-journey/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Dynamic Programming
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
