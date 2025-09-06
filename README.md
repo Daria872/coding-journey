@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Daria872/coding-journey/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Daria872/coding-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
 | ------- |
