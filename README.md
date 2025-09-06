@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Daria872/coding-journey/tree/master/0520-detect-capital) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Array
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Daria872/coding-journey/tree/master/0039-combination-sum) |
+## Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
