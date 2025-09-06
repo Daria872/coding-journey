@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Daria872/coding-journey/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Daria872/coding-journey/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Daria872/coding-journey/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 ## Geometry
 |  |
