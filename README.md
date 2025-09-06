@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Daria872/coding-journey/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Daria872/coding-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
