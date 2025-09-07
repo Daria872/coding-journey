@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Daria872/coding-journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Daria872/coding-journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Daria872/coding-journey/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Daria872/coding-journey/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Daria872/coding-journey/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Daria872/coding-journey/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Daria872/coding-journey/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Daria872/coding-journey/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Daria872/coding-journey/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/Daria872/coding-journey/tree/master/1610-xor-operation-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Daria872/coding-journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Daria872/coding-journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Daria872/coding-journey/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 ## Geometry
 |  |
