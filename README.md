@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Daria872/coding-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Daria872/coding-journey/tree/master/0038-count-and-say) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Daria872/coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/Daria872/coding-journey/tree/master/0472-concatenated-words) |
