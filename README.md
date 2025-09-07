@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Daria872/coding-journey/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Daria872/coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Daria872/coding-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Daria872/coding-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Daria872/coding-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Daria872/coding-journey/tree/master/0443-string-compression) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Daria872/coding-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Daria872/coding-journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Daria872/coding-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Daria872/coding-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Daria872/coding-journey/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
