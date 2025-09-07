@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1666-make-the-string-great](https://github.com/Daria872/coding-journey/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Daria872/coding-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
