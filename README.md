@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Daria872/coding-journey/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Daria872/coding-journey/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Daria872/coding-journey/tree/master/0472-concatenated-words) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Daria872/coding-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Daria872/coding-journey/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Daria872/coding-journey/tree/master/0472-concatenated-words) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Daria872/coding-journey/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Combinatorics
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Daria872/coding-journey/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Daria872/coding-journey/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Daria872/coding-journey/tree/master/0472-concatenated-words) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
