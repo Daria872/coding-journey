@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Daria872/coding-journey/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Daria872/coding-journey/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Daria872/coding-journey/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Daria872/coding-journey/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/Daria872/coding-journey/tree/master/1610-xor-operation-in-an-array) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Daria872/coding-journey/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
