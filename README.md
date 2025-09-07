@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Daria872/coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Daria872/coding-journey/tree/master/0520-detect-capital) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Daria872/coding-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1542-consecutive-characters](https://github.com/Daria872/coding-journey/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/Daria872/coding-journey/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Daria872/coding-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Daria872/coding-journey/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Daria872/coding-journey/tree/master/0283-move-zeroes) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Daria872/coding-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Daria872/coding-journey/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
