@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Daria872/coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Daria872/coding-journey/tree/master/0039-combination-sum) |
+| [0137-single-number-ii](https://github.com/Daria872/coding-journey/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Daria872/coding-journey/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Daria872/coding-journey/tree/master/0260-single-number-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Daria872/coding-journey/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/Daria872/coding-journey/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Daria872/coding-journey/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/Daria872/coding-journey/tree/master/1610-xor-operation-in-an-array) |
