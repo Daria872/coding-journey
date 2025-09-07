@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Daria872/coding-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Daria872/coding-journey/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Daria872/coding-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Daria872/coding-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Daria872/coding-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Daria872/coding-journey/tree/master/0242-valid-anagram) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Daria872/coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Daria872/coding-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Daria872/coding-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Daria872/coding-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Daria872/coding-journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
