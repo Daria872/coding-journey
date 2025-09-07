@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Daria872/coding-journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Daria872/coding-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Daria872/coding-journey/tree/master/0039-combination-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Daria872/coding-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Daria872/coding-journey/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Daria872/coding-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Daria872/coding-journey/tree/master/0162-find-peak-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Daria872/coding-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Daria872/coding-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Daria872/coding-journey/tree/master/0162-find-peak-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
