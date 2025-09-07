@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Daria872/coding-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Daria872/coding-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Daria872/coding-journey/tree/master/1034-subarrays-with-k-different-integers) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Daria872/coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Daria872/coding-journey/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Daria872/coding-journey/tree/master/0162-find-peak-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Daria872/coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/Daria872/coding-journey/tree/master/1646-kth-missing-positive-number) |
 ## Binary Tree
 |  |
