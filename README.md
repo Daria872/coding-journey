@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Daria872/coding-journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Daria872/coding-journey/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Daria872/coding-journey/tree/master/0342-power-of-four) |
+| [1070-convert-to-base-2](https://github.com/Daria872/coding-journey/tree/master/1070-convert-to-base-2) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Daria872/coding-journey/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Daria872/coding-journey/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
