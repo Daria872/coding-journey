@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Daria872/coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Daria872/coding-journey/tree/master/0520-detect-capital) |
+| [0889-buddy-strings](https://github.com/Daria872/coding-journey/tree/master/0889-buddy-strings) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Daria872/coding-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1542-consecutive-characters](https://github.com/Daria872/coding-journey/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/Daria872/coding-journey/tree/master/1666-make-the-string-great) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0889-buddy-strings](https://github.com/Daria872/coding-journey/tree/master/0889-buddy-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
