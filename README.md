@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/Daria872/coding-journey/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Daria872/coding-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Daria872/coding-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Backtracking
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Daria872/coding-journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Daria872/coding-journey/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Daria872/coding-journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Daria872/coding-journey/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
