@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Daria872/coding-journey/tree/master/0981-delete-columns-to-make-sorted) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Daria872/coding-journey/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Daria872/coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1319-unique-number-of-occurrences](https://github.com/Daria872/coding-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Daria872/coding-journey/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Daria872/coding-journey/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Daria872/coding-journey/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/Daria872/coding-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Daria872/coding-journey/tree/master/1034-subarrays-with-k-different-integers) |
+| [1319-unique-number-of-occurrences](https://github.com/Daria872/coding-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Daria872/coding-journey/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
