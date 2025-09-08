@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Daria872/coding-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Daria872/coding-journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1635-number-of-good-pairs](https://github.com/Daria872/coding-journey/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Daria872/coding-journey/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Daria872/coding-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Daria872/coding-journey/tree/master/1034-subarrays-with-k-different-integers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Daria872/coding-journey/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1635-number-of-good-pairs](https://github.com/Daria872/coding-journey/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Daria872/coding-journey/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Daria872/coding-journey/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1610-xor-operation-in-an-array](https://github.com/Daria872/coding-journey/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Daria872/coding-journey/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Daria872/coding-journey/tree/master/2649-count-total-number-of-colored-cells) |
 ## Dynamic Programming
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Daria872/coding-journey/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/Daria872/coding-journey/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Daria872/coding-journey/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1635-number-of-good-pairs](https://github.com/Daria872/coding-journey/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Daria872/coding-journey/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
