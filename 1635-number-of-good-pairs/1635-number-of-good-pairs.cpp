@@ -1,13 +1,14 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        int res=0;
+        map<int,int>mpp;
         for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(nums[i]==nums[j]){
-                    res++;
-                }
-            }
+            mpp[nums[i]]++;
+        }
+        int res=0;
+        for(auto it:mpp){
+            int freq=it.second;
+            res+=((freq*(freq-1))/2);
         }
         return res;
     }
