@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Daria872/coding-journey/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1970-sorting-the-sentence](https://github.com/Daria872/coding-journey/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Daria872/coding-journey/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
