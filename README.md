@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Daria872/coding-journey/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Daria872/coding-journey/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Daria872/coding-journey/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Daria872/coding-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Daria872/coding-journey/tree/master/2649-count-total-number-of-colored-cells) |
+| [3462-vowels-game-in-a-string](https://github.com/Daria872/coding-journey/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Daria872/coding-journey/tree/master/0966-binary-subarrays-with-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Daria872/coding-journey/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Daria872/coding-journey/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
