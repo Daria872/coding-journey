@@ -1,11 +1,19 @@
 class Solution {
 public:
     int countGoodSubstrings(string s) {
-        int count=0;
-        for(int i=0;i+2<s.size();i++){
-            char a=s[i], b=s[i+1], c=s[i+2];
-            if(a!=b && b!=c && c!=a)
+        int l=0,r=2,count=0;
+        while(r<s.size()){
+            set<char>st;
+            int p=0;
+            for(int i=l;i<=r;i++){
+                if(st.find(s[i])==st.end()){
+                    st.insert(s[i]);
+                }
+            }
+            if(st.size()==3)
                 count++;
+            l+=1;
+            r+=1;
         }
         return count;
     }
