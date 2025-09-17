@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Daria872/coding-journey/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Daria872/coding-journey/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Daria872/coding-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Daria872/coding-journey/tree/master/0472-concatenated-words) |
 | [0917-boats-to-save-people](https://github.com/Daria872/coding-journey/tree/master/0917-boats-to-save-people) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Daria872/coding-journey/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Daria872/coding-journey/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Daria872/coding-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Daria872/coding-journey/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Daria872/coding-journey/tree/master/0472-concatenated-words) |
 | [0917-boats-to-save-people](https://github.com/Daria872/coding-journey/tree/master/0917-boats-to-save-people) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Daria872/coding-journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Daria872/coding-journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Daria872/coding-journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Daria872/coding-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Daria872/coding-journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Daria872/coding-journey/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Daria872/coding-journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Daria872/coding-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Daria872/coding-journey/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Daria872/coding-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Daria872/coding-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/Daria872/coding-journey/tree/master/0889-buddy-strings) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Daria872/coding-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Daria872/coding-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Daria872/coding-journey/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Daria872/coding-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Daria872/coding-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Daria872/coding-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Daria872/coding-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
