@@ -11,16 +11,13 @@
 class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
-        ListNode* currnode=head;
-        ListNode* nextnode=head->next;
-        while(currnode && nextnode){
-            int g=std::gcd(currnode->val, nextnode->val);
-            ListNode* gcd=new ListNode(g);
-            currnode->next=gcd;
-            gcd->next=nextnode;
-            currnode=nextnode;
-            nextnode=nextnode->next;
-        }
+        if(!head || !head->next)
+            return head;
+        ListNode* temp=insertGreatestCommonDivisors(head->next);
+        int g=std::gcd(head->val,head->next->val);
+        ListNode* gcdnode=new ListNode(g);
+        gcdnode->next=temp;
+        head->next=gcdnode;
         return head;
     }
 };
