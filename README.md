@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Daria872/coding-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Daria872/coding-journey/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Daria872/coding-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Daria872/coding-journey/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-complement-of-base-10-integer](https://github.com/Daria872/coding-journey/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Daria872/coding-journey/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Daria872/coding-journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Daria872/coding-journey/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Daria872/coding-journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Daria872/coding-journey/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
