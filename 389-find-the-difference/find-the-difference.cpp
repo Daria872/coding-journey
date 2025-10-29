@@ -1,16 +1,13 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char,int>mpp;
+        int sum_s=0,sum_t=0;
         for(char &ch:s){
-            mpp[ch]++;
+            sum_s+=ch;
         }
         for(char &ch:t){
-            mpp[ch]--;
-            if(mpp[ch]<0){
-                return ch;
-            }
+            sum_t+=ch;
         }
-        return 'x';
+        return (char)sum_t-sum_s;
     }
 };
