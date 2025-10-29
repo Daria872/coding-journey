@@ -1,13 +1,13 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int sum_s=0,sum_t=0;
+        int xor1=0;
         for(char &ch:s){
-            sum_s+=ch;
+            xor1^=ch;
         }
         for(char &ch:t){
-            sum_t+=ch;
+            xor1^=ch;
         }
-        return (char)sum_t-sum_s;
+        return (char)xor1;
     }
 };
