@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Daria872/coding-journey/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Daria872/coding-journey/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Daria872/coding-journey/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Daria872/coding-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Daria872/coding-journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Daria872/coding-journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Daria872/coding-journey/tree/master/1635-number-of-good-pairs) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Daria872/coding-journey/tree/master/3462-vowels-game-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Daria872/coding-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
